@@ -41,7 +41,7 @@ pip install tensorflow==1.4
 # Example
 the following image shows the result
 
-![img_work_flow](https://github.com/gd1m3y/Equation-Evaluater/blob/master/workflow.png?raw=true)
+![img_work_flow](https://github.com/gd1m3y/Equation-Evaluater/blob/master/result.png?raw=true)
 
 ### Development
 
